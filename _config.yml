@@ -4,9 +4,9 @@
 # Site settings
 title: Ian "Ace" Rodgers, PI
 description: |
-  Happy Birthday Ian!
-  We hope that this website will
-  Bring you lots of joy  
+  Happy Birthday Ian! <br />
+  We hope that this website will <br />
+  Bring you lots of joy  <br />
   Love, Hannah and Tim
 owner: Ian Rodgers # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
@@ -16,9 +16,9 @@ url: "http://acerodgers.com" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/kleixa
   github: https://github.com/acerodgers
-  linkedin-square: https://linkedin.com/in/<username>
+  #linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/Ian.Mainrod
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
@@ -27,7 +27,7 @@ social:
   #stack-overflow:
   #vimeo:
   #reddit:
-  #stubleupon:
+  #stumbleupon:
   #delicious:
   #pied-piper:
   #digg:
