@@ -1,2 +1,6 @@
 # acerodgers.github.io
-Ian Rodgers' Personal Site
+Ian Rodgers' Personal Site. Happy Birthday Ian!
+
+Love,
+
+Tim and Hannah
